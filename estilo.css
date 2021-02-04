@@ -1,4 +1,5 @@
 body{
+    background-image: url(imgs/bg.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -23,7 +24,6 @@ body{
 
 html{
     cursor: url(imgs/mata_mosquito.png) 30 30, auto;
-    background-image: url(imgs/bg.jpg);
 }
 .mosquito1{
     width: 60px;
